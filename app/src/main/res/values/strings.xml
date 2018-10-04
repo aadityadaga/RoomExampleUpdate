@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomExample</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
+    <string name="submit">submit</string>
+    <string name="view_all">View All</string>
+</resources>
